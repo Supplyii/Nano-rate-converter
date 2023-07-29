@@ -10,12 +10,12 @@ Ability to enter a specific amount of Nano for precise conversions.
 Comprehensive list of supported currencies, including major fiat currencies and popular cryptocurrencies.
 Open-source project, encouraging community contributions and improvements.
 Demo
-For a live demo of the Nano Crypto Converter, please visit https://example.com/nano-crypto-converter.
+For a live demo of the Nano Crypto Converter, please visit https://supplyii.github.io/Nano-converter/.
 
 Getting Started
 To run the Nano Crypto Converter locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/nano-crypto-converter.git
+Clone the repository: git clone https://github.com/supplyii/nano-crypto-converter.git
 Navigate to the project directory: cd nano-crypto-converter
 Open the index.html file in your preferred web browser.
 Usage
